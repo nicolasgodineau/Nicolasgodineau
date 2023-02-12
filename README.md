@@ -9,3 +9,13 @@ godineaunicolas@gmail.com
 Bonne visite
 
 A bientot
+
+I am Nicolas, student in web development at Collège de Maisonneuve in Montreal.
+<br>
+I am also a photographer in my free time, visible here 👉🏻 https://nicolasgodineau.com/.
+<br>
+godineaunicolas@gmail.com
+<br>
+Good visit
+
+See you soon
