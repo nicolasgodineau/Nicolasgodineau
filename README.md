@@ -18,6 +18,7 @@ Bonne visite
 I am Nicolas, student in **web development** at Collège de Maisonneuve in Montreal.
 <br>
 I am also a photographer in my free time, visible here  
+
 👉🏻 https://nicolasgodineau.com/.
 
 If you have any questions, don't hesitate!  
